@@ -1,0 +1,2 @@
+# XGBoost est optionnel, absent de l’environnement actuel et non nécessaire au RandomForest.
+xgboost==2.1.1
